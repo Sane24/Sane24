@@ -1,6 +1,10 @@
 ## Hi there 👋
+# I am Sam!
+@sane24
 
-<!--
+[website](https://sane24.github.io)
+
+<!--  
 **Sane24/Sane24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
