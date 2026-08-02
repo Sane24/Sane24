@@ -1,5 +1,4 @@
-## Hi there 👋
-# I am Sam!
+## Hi there, I am Sam!
 @sane24
 
 [website](https://sane24.github.io)
