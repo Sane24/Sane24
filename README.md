@@ -1,5 +1,5 @@
 ## Hi there, I am Sam!
-@sane24
+@Sane24
 
 [website](https://sane24.github.io)
 
