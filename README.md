@@ -1,7 +1,9 @@
 ## Hi there, I am Sam!
 @Sane24
 
-Software engineer with experience in full-stack development, machine learning, computer vision, and cloud infrastructure. I love creating and designing new things as a way to bring the many ideas I have to life, solve interesting and important problems, and put my creativity to work!
+Software engineer with experience in full-stack development, machine learning, computer vision, and cloud infrastructure. 
+
+I love creating and designing new things as a way to bring the many ideas I have to life, solve interesting and important problems, and put my creativity to work!
 
 
 [website](https://sane24.github.io)
