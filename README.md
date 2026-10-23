@@ -7,7 +7,7 @@ I love creating and designing new things as a way to bring the many ideas I have
 
 
 [website](https://sane24.github.io)
-
+[linkedin](https://www.linkedin.com/in/sampurn-/)
 <!--  
 **Sane24/Sane24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
